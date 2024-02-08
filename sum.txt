@@ -1,4 +1,4 @@
 a=10
-b=20git 
+b=20
 c=a+b
 print(c)
